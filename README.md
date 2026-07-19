@@ -1,8 +1,8 @@
-### Hi, I'm Sergejs. Principal AI Systems Architect ⚡
+### Hi, I'm Sergejs. Independent AI Systems Engineer ⚡
 
 Let’s get one thing straight: I don’t drink almond milk lattes in coworking spaces, and I don’t participate in Agile theater by moving Jira tickets all day. 
 
-I am 100% self-taught. I started by reverse-engineering MMO server binaries in HEX editors, and I assigned myself the "Principal" title because I built the zero-trust, low-latency, hybrid-cloud infrastructure from scratch to back it up. I don't manage boards; I engineer systems that run themselves.
+I am 100% self-taught. I started by reverse-engineering MMO server binaries in HEX editors, and I assigned myself the title because I built the zero-trust, low-latency, hybrid-cloud infrastructure from scratch to back it up. I don't manage boards; I engineer systems that run themselves.
 
 🔒 **The Core IP is Closed-Source**
 
