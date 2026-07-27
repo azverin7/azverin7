@@ -5,7 +5,7 @@ Built zero-trust, low-latency, hybrid-cloud infrastructure from scratch — then
 
 🔒 **Core IP is Closed-Source**
 
-My primary engineering work — the **Lyralei Autonomous Agent Ecosystem** — is proprietary.
+My primary engineering work — the **Lyralai Autonomous Agent Ecosystem** — is proprietary.
 Autonomous AI VTuber with a somatic model (cortisol, dopamine, drive arbitration),
 REM-based personality drift, embedding-based broadcast memory, and a hybrid cloud/edge
 inference pipeline. You won't find the crown jewels here.
